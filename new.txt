@@ -1,0 +1,15 @@
+attached html files with css files, then design the css file in such a way that the html file and make small changes 
+in the future and things can happen. 
+this file is just for reference purposes. 
+
+Xhtml is also a new standard in the industry. 
+facebook now meta brough in react.js library in the market which already 
+had google's Angular.js 
+and also Vue.js which is a combination of these two libraries
+
+Next.js and Gatsby.js 
+
+react.js is a library which was developed by facebook and which is used extensively in the web development market requirement. 
+javascript is also a top requirement which is most sort after in the field of coding and web development.
+good core knowledge of html , css and js and then core knowledge of react then move onto back end development like node.js and also sql
+which is databases and no sql , application development also consists of languages like c++ and c.

@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-family: 'Roboto Mono';
+    font-size: 18px;
+}
+
+.main{
+    width: 100%;
+    height: 100vh;
+    background: url('./653c5395a20cd20e8f4fb7b5_Freelance\ Software\ Developer\ Everything\ You\ Need\ To\ Know.webp') no-repeat center / cover ;
+    color:white;
+    
+}
+
+.container{
+    width: 90%;
+    height: 100vh;
+    max-width: 1000px;
+    margin: 0 auto;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container .info p{
+    font-size: medium;
+    font-weight: 300;
+}
+
+#one{
+    margin-top: 5px;
+}
+
+.container .info h4 {
+    font-size: small;
+
+}
+
+.lists{
+    max-width: 600px;
+    margin: 15px;
+}
